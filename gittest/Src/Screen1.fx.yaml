@@ -6,3 +6,9 @@ Screen1 As screen:
         Y: =657
         ZIndex: =1
 
+    Button2 As button:
+        Text: ="Biggin"
+        X: =369
+        Y: =645
+        ZIndex: =2
+
