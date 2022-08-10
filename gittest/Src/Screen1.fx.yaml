@@ -12,3 +12,9 @@ Screen1 As screen:
         Y: =645
         ZIndex: =2
 
+    Button3 As button:
+        Text: ="KKKKKKK"
+        X: =100
+        Y: =530
+        ZIndex: =3
+
