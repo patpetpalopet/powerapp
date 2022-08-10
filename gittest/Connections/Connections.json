@@ -1,1 +1,27 @@
-{}
+{
+  "1a48a575-690e-4c66-b946-19f49a11152b": {
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
+    "connectionRef": {
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1591/1.0.1591.2961/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline"
+    },
+    "datasets": {
+      "https://metrosystemso365.sharepoint.com/sites/DevOps/TM": {
+        "dataSources": {
+          "Teams": {
+            "tableName": "9bea53d0-bfce-4914-b188-ed2394bd7742"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "Teams"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "1a48a575-690e-4c66-b946-19f49a11152b"
+  }
+}

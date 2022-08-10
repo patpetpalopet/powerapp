@@ -13,7 +13,7 @@
       "allowmultiplescreensincanvaspages": false,
       "appinsightserrortracing": false,
       "appinstrumentationcorrelationtracing": false,
-      "autocreateenvironmentvariables": false,
+      "autocreateenvironmentvariables": true,
       "backfromhostaction": false,
       "behaviorpropertyui": false,
       "blockmovingcontrol": true,
